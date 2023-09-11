@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\03.ForeGround\bin\Debug\net7.0\03.ForeGround.exe
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\03.ForeGround\bin\Debug\net7.0\03.ForeGround.deps.json
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\03.ForeGround\bin\Debug\net7.0\03.ForeGround.runtimeconfig.json
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\03.ForeGround\bin\Debug\net7.0\03.ForeGround.dll
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\03.ForeGround\bin\Debug\net7.0\03.ForeGround.pdb
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\03.ForeGround\obj\Debug\net7.0\03.ForeGround.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\03.ForeGround\obj\Debug\net7.0\03.ForeGround.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\03.ForeGround\obj\Debug\net7.0\03.ForeGround.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\03.ForeGround\obj\Debug\net7.0\03.ForeGround.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\03.ForeGround\obj\Debug\net7.0\03.ForeGround.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\03.ForeGround\obj\Debug\net7.0\03.ForeGround.dll
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\03.ForeGround\obj\Debug\net7.0\refint\03.ForeGround.dll
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\03.ForeGround\obj\Debug\net7.0\03.ForeGround.pdb
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\03.ForeGround\obj\Debug\net7.0\03.ForeGround.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\03.ForeGround\obj\Debug\net7.0\ref\03.ForeGround.dll

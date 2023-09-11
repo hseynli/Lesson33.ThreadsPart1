@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\Priority\bin\Debug\net7.0\05.Priority.exe
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\Priority\bin\Debug\net7.0\05.Priority.deps.json
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\Priority\bin\Debug\net7.0\05.Priority.runtimeconfig.json
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\Priority\bin\Debug\net7.0\05.Priority.dll
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\Priority\bin\Debug\net7.0\05.Priority.pdb
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\Priority\obj\Debug\net7.0\05.Priority.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\Priority\obj\Debug\net7.0\05.Priority.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\Priority\obj\Debug\net7.0\05.Priority.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\Priority\obj\Debug\net7.0\05.Priority.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\Priority\obj\Debug\net7.0\05.Priority.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\Priority\obj\Debug\net7.0\05.Priority.dll
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\Priority\obj\Debug\net7.0\refint\05.Priority.dll
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\Priority\obj\Debug\net7.0\05.Priority.pdb
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\Priority\obj\Debug\net7.0\05.Priority.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\Priority\obj\Debug\net7.0\ref\05.Priority.dll

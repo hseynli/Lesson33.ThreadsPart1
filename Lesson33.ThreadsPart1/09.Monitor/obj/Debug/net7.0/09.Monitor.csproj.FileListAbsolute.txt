@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\09.Monitor\bin\Debug\net7.0\09.Monitor.exe
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\09.Monitor\bin\Debug\net7.0\09.Monitor.deps.json
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\09.Monitor\bin\Debug\net7.0\09.Monitor.runtimeconfig.json
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\09.Monitor\bin\Debug\net7.0\09.Monitor.dll
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\09.Monitor\bin\Debug\net7.0\09.Monitor.pdb
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\09.Monitor\obj\Debug\net7.0\09.Monitor.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\09.Monitor\obj\Debug\net7.0\09.Monitor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\09.Monitor\obj\Debug\net7.0\09.Monitor.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\09.Monitor\obj\Debug\net7.0\09.Monitor.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\09.Monitor\obj\Debug\net7.0\09.Monitor.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\09.Monitor\obj\Debug\net7.0\09.Monitor.dll
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\09.Monitor\obj\Debug\net7.0\refint\09.Monitor.dll
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\09.Monitor\obj\Debug\net7.0\09.Monitor.pdb
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\09.Monitor\obj\Debug\net7.0\09.Monitor.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\09.Monitor\obj\Debug\net7.0\ref\09.Monitor.dll

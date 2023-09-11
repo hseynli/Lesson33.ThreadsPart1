@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\08.Lock\bin\Debug\net7.0\08.Lock.exe
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\08.Lock\bin\Debug\net7.0\08.Lock.deps.json
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\08.Lock\bin\Debug\net7.0\08.Lock.runtimeconfig.json
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\08.Lock\bin\Debug\net7.0\08.Lock.dll
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\08.Lock\bin\Debug\net7.0\08.Lock.pdb
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\08.Lock\obj\Debug\net7.0\08.Lock.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\08.Lock\obj\Debug\net7.0\08.Lock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\08.Lock\obj\Debug\net7.0\08.Lock.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\08.Lock\obj\Debug\net7.0\08.Lock.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\08.Lock\obj\Debug\net7.0\08.Lock.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\08.Lock\obj\Debug\net7.0\08.Lock.dll
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\08.Lock\obj\Debug\net7.0\refint\08.Lock.dll
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\08.Lock\obj\Debug\net7.0\08.Lock.pdb
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\08.Lock\obj\Debug\net7.0\08.Lock.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\08.Lock\obj\Debug\net7.0\ref\08.Lock.dll

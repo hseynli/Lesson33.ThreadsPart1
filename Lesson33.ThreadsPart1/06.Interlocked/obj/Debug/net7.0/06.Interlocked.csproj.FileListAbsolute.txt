@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\06.Interlocked\bin\Debug\net7.0\06.Interlocked.exe
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\06.Interlocked\bin\Debug\net7.0\06.Interlocked.deps.json
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\06.Interlocked\bin\Debug\net7.0\06.Interlocked.runtimeconfig.json
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\06.Interlocked\bin\Debug\net7.0\06.Interlocked.dll
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\06.Interlocked\bin\Debug\net7.0\06.Interlocked.pdb
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\06.Interlocked\obj\Debug\net7.0\06.Interlocked.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\06.Interlocked\obj\Debug\net7.0\06.Interlocked.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\06.Interlocked\obj\Debug\net7.0\06.Interlocked.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\06.Interlocked\obj\Debug\net7.0\06.Interlocked.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\06.Interlocked\obj\Debug\net7.0\06.Interlocked.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\06.Interlocked\obj\Debug\net7.0\06.Interlocked.dll
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\06.Interlocked\obj\Debug\net7.0\refint\06.Interlocked.dll
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\06.Interlocked\obj\Debug\net7.0\06.Interlocked.pdb
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\06.Interlocked\obj\Debug\net7.0\06.Interlocked.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson33.ThreadsPart1\06.Interlocked\obj\Debug\net7.0\ref\06.Interlocked.dll
